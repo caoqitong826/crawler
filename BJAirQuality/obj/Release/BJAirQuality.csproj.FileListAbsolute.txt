@@ -1,0 +1,5 @@
+C:\Users\caoqitong\Documents\Visual Studio 2012\Projects\BJAirQuality\BJAirQuality\bin\Release\BJAirQuality.exe.config
+C:\Users\caoqitong\Documents\Visual Studio 2012\Projects\BJAirQuality\BJAirQuality\bin\Release\BJAirQuality.exe
+C:\Users\caoqitong\Documents\Visual Studio 2012\Projects\BJAirQuality\BJAirQuality\bin\Release\BJAirQuality.pdb
+C:\Users\caoqitong\Documents\Visual Studio 2012\Projects\BJAirQuality\BJAirQuality\obj\Release\BJAirQuality.exe
+C:\Users\caoqitong\Documents\Visual Studio 2012\Projects\BJAirQuality\BJAirQuality\obj\Release\BJAirQuality.pdb

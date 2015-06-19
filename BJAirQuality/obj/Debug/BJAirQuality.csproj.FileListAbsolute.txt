@@ -1,0 +1,6 @@
+c:\users\caoqitong\documents\visual studio 2012\Projects\BJAirQuality\BJAirQuality\bin\Debug\BJAirQuality.exe.config
+c:\users\caoqitong\documents\visual studio 2012\Projects\BJAirQuality\BJAirQuality\bin\Debug\BJAirQuality.exe
+c:\users\caoqitong\documents\visual studio 2012\Projects\BJAirQuality\BJAirQuality\bin\Debug\BJAirQuality.pdb
+c:\users\caoqitong\documents\visual studio 2012\Projects\BJAirQuality\BJAirQuality\obj\Debug\BJAirQuality.exe
+c:\users\caoqitong\documents\visual studio 2012\Projects\BJAirQuality\BJAirQuality\obj\Debug\BJAirQuality.pdb
+C:\Users\caoqitong\Documents\Visual Studio 2012\Projects\BJAirQuality\BJAirQuality\obj\Debug\BJAirQuality.csprojResolveAssemblyReference.cache
